@@ -331,7 +331,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .nowrap {
     white-space: nowrap;
 }
-
+.extra_wrapper, .extra_wrapper h3, .extra_wrapper pre, .extra_wrapper p {
+    word-wrap: break-word;
+}
 
 /*header*/
 

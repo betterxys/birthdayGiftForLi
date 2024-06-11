@@ -154,7 +154,9 @@
 .phone {
 	position: relative;
 }
-
+.extra_wrapper {
+    word-wrap: break-word;
+}
 
 
 .message br {
